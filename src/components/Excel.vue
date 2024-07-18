@@ -15,7 +15,7 @@ let xConfigMock = {
     operator: "*",
     elements: [{
         operator: "+",
-        elements: ["B","D"]
+        elements: ["B","D","A"]
     },"C"]
 };
 // 维度成员转换为组合配置
