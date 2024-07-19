@@ -11,6 +11,7 @@ let dimensionsMock = {
 };
 
 //模拟行头配置数据
+// test 分支增加了注释内容
 let xConfigMock = {
     operator: "*",
     elements: [{
